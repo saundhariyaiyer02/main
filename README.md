@@ -1,5 +1,5 @@
 ## GITHUB SCRAPER
-- This project scrapes GitHub users located in San Francisco with over 500 followers, providing valuable insights into the local developer community.
+- This project scrapes GitHub users located in Beijing with over 500 followers, providing valuable insights into the local developer community.
 - It collects user information and their public repositories, storing the data in CSV format for easy analysis and accessibility.
 - The script utilizes the GitHub API to gather data, ensuring the information is up-to-date and relevant.
 
